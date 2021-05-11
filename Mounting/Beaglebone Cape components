@@ -1,0 +1,40 @@
+ID 	Qty	Description	Picture	Reference	Comments	
+---	1	OpenPMU BBB Cape V2.3		V2.3		
+R1	1	1k 8-Way DIP Resistor Network		4116R LF 		
+R2				1-102
+R3	[alternative 8]	[can be substituted with 8 x 1k resistors]
+R4
+R5
+R6 
+R7
+R8
+BBB	1 Green	1206 series SMD LEDS			Colours can be changed, there is no standard (for now)	
+PPS	1 Yellow
+RV0	1 Blue
+RV1	1 White
+R9	4	1206 series SMD resistors XXX ohms			Resistors for SMD LEDs 	
+R10					(values may vary depending on LEDs colour and desired brightness)
+R11					As reference 100-150-220 ohms (tested & working)  
+R12					
+					
+					
+					Screen clipping taken: 23/05/2019 11:54
+					
+					
+C6	2	Through-hole capacitor 47uF 6.3V 4mm				
+C7
+P8	2	2x23 (46 pin) male header			Contacts for conection with Beaglebone Black	
+P9
+ADC7606-A	1	2x15 (30 contact) board to board connector, 2.54mm			Contacts for connection with ADC	
+ADC7606-B	1	2x8 (16 contact) board to board connector, 2.54mm				
+LED_PANEL	1	1x5				
+RNG_SEL	2	1x3			Voltage range selection	
+CLK_SEL					Clock selection
+					(*) short elbow connectors were used
+GPS_INPUTS	1	1x6				
+SV1	1	1x9 (9 terminals) screw terminal block, 2.54mm			Connector for mesurement inputs 	
+					[for screw terminal, hole are a bit narrow, they were widen with a 1mm diameter manual driller from both PCB sides)
+		[can de substituted with 1x9 (9 contacts) alternative right angle male header]
+---	2	2-pin jumpers				
+						
+						
