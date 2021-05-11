@@ -1,5 +1,7 @@
 # OpenPMU
 
+Fork note: Forked to include some additional info.
+
 **This repository hosts the [OpenPMU Wiki](https://github.com/OpenPMU/OpenPMU/wiki).**
 
 OpenPMU is the Open Source Phasor Measurement Unit.
